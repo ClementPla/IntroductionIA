@@ -1,19 +1,19 @@
 [
 {
-  "imageUrl":"~/assets/histoire/images/Alan_Turing_Aged_16.jpg",
+  "imageUrl":"assets/histoire/images/Alan_Turing_Aged_16.jpg",
   "title":"Alan Turing",
   "date":1950,
   "description":"Dans un article pour Computing Machinery and Intelligence, le célèbre mathématicien et informaticien Alan Turing se demande si les machines peuvent penser"
 },
 {
-  "imageUrl":"~/assets/histoire/images/1280px-Dartmouth_College_campus_2007-06-23_Dartmouth_Hall_02.JPG",
+  "imageUrl":"assets/histoire/images/1280px-Dartmouth_College_campus_2007-06-23_Dartmouth_Hall_02.JPG",
   "title":"Apparition du terme IA",
   "date":1956,
   "description":"La notion d'Intelligence Artificielle apparaît durant la conférence de Darmouth"
 },
 
 {
-  "imageUrl":"~/assets/histoire/images/Loi_de_Moore.png",
+  "imageUrl":"assets/histoire/images/Loi_de_Moore.png",
   "title":"Loi de Moore",
   "date":1965,
   "description":"Gordon Moore postule que la complexité des semi-conducteurs double tous les ans"
@@ -28,7 +28,7 @@
 
 
 {
-  "imageUrl":"~/assets/histoire/images/hiver.jpg",
+  "imageUrl":"assets/histoire/images/hiver.jpg",
   "title":"1er Hiver de l'IA",
   "date":1974,
   "description":"En raison de progrès limités obtenus par les méthodes symboliques, les fonds de recherche en IA sont drastiquement réduits"
@@ -36,7 +36,7 @@
 
 
 {
-  "imageUrl":"~/assets/histoire/images/Shibuya_tokyo.jpg",
+  "imageUrl":"assets/histoire/images/Shibuya_tokyo.jpg",
   "title":"Relance au Japon",
   "date":1982,
   "description":"En raison de progrès limités obtenus par les méthodes symboliques, les fonds de recherche en IA sont drastiquement réduits"
@@ -44,7 +44,7 @@
 
 
 {
-  "imageUrl":"~/assets/histoire/images/Deep_Blue.jpg",
+  "imageUrl":"assets/histoire/images/Deep_Blue.jpg",
   "title":"Deep Blue bat Kasparov",
   "date":1997,
   "description":"Développé par IBM, Deep Blue défie le champion du monde d'échec Garry Kasparov"
