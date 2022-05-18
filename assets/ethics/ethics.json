@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Biais et Inclusivité",
+    "shortDescription":"Comment concevoir des algorithmes inclusifs?",
+    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
+    "imgUrl":"assets/ethics/images/gender-bias-person-people-inequality-svgrepo-com.svg"
+  },
+  {
+    "title":"Spécificité humaine",
+    "shortDescription":"Comment concevoir des algorithmes inclusifs?",
+    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
+    "imgUrl":"assets/ethics/images/computer-surveillance-artificial-intelligence-computer-ai-svgrepo-com.svg"
+  },
+  {
+    "title":"Applications",
+    "shortDescription":"Comment concevoir des algorithmes inclusifs?",
+    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
+    "imgUrl":"assets/ethics/images/aim-svgrepo-com.svg"
+  },
+  {
+    "title":"Autonomie",
+    "shortDescription":"Comment concevoir des algorithmes inclusifs?",
+    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
+    "imgUrl":"assets/ethics/images/artificial-intelligence-svgrepo-com.svg"
+  }
+]

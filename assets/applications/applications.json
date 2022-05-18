@@ -1,15 +1,40 @@
 [
   {
-    "imgUrl":"assets/applications/images/quickdraw.png",
+    "imgUrl":"assets/applications/images/quickdraw.jpg",
     "title":"Quick Draw",
     "description":"Une IA sera-t-elle capable de reconnaître vos dessins?",
     "url":"https://quickdraw.withgoogle.com/"
   },
 
   {
-    "imgUrl":"assets/applications/images/quickdraw.png",
-    "title":"Quick Draw",
-    "description":"Une IA sera-t-elle capable de reconnaître vos dessins?",
-    "url":"https://quickdraw.withgoogle.com/"
+    "imgUrl":"assets/applications/images/gaugan.jpg",
+    "title":"Gau-GAN",
+    "description":"Convertissez vos dessins en images photoréalistes",
+    "url":"http://gaugan.org/gaugan2/"
+  },
+  {
+    "imgUrl":"assets/applications/images/openAI.jpg",
+    "title":"OpenAI-Beta",
+    "description":"Discutez (en anglais) avec une IA basée sur le modèle GPT-3",
+    "url":"https://beta.openai.com/playground/"
+  },
+  {
+    "imgUrl":"assets/applications/images/cedilleAI.jpg",
+    "title":"cedille.ai",
+    "description":"Un générateur d'histoire (en français)",
+    "url":"https://app.cedille.ai/model/french"
+  },
+  {
+    "imgUrl":"assets/applications/images/thispersondoesNotexists.jpg",
+    "title":"Cette personne n'existe pas",
+    "description":"Un générateur de portraits de personnes qui n'existent pas!",
+    "url":"https://this-person-does-not-exist.com/fr"
+  },
+  {
+    "imgUrl":"assets/applications/images/whichoneisreal.jpg",
+    "title":"Laquelle est réelle?",
+    "description":"Saurez-vous distinguer entre une photo de personne réelle et une image créée de toutes pièces par une IA?",
+    "url":"https://www.whichfaceisreal.com/"
   }
+
 ]
