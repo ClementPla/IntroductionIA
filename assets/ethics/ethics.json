@@ -1,26 +1,39 @@
 [
   {
     "title":"Biais et Inclusivité",
-    "shortDescription":"Comment concevoir des algorithmes inclusifs?",
-    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
-    "imgUrl":"assets/ethics/images/gender-bias-person-people-inequality-svgrepo-com.svg"
+    "shortDescription":"Un algorithme peut-il être objectif?",
+    "longDescription":"La question de l'inclusivité est fondamentale dans la conception d'un algorithme quand celui-ci traite avec des humains. On s'imagine parfois à tort qu'un algorithme est nécessairement plus objectif que la décision d'un opérateur humain (dans la mesure où ses décisions proviendraient d'un ensemble de règles écrites en amont de manière rationnelle et dépassionnée). Or, de nombreuses expériences ont demontré le réel risque de reproduction de travers de société dans certaines prises de décisions algorithmiques (des IA faisant preuve de sexisme, de racisme, d'homophobie...). ",
+    "imgUrl":"assets/ethics/images/gender-bias-person-people-inequality-svgrepo-com.svg",
+    "url":"biais"
   },
   {
     "title":"Spécificité humaine",
     "shortDescription":"Comment concevoir des algorithmes inclusifs?",
-    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
-    "imgUrl":"assets/ethics/images/computer-surveillance-artificial-intelligence-computer-ai-svgrepo-com.svg"
+    "longDescription":"Nulla laborum adipisicing minim sit cupidatat irure irure eu laborum id sint minim. Voluptate duis do ut fugiat duis aliquip commodo sit Lorem ipsum fugiat. Et adipisicing Lorem dolore voluptate ut aliquip reprehenderit cupidatat magna ullamco consequat culpa. Anim et cillum cupidatat nostrud adipisicing excepteur enim ex tempor do magna.",
+    "imgUrl":"assets/ethics/images/computer-surveillance-artificial-intelligence-computer-ai-svgrepo-com.svg",
+    "url":"specificite"
   },
+  {
+    "title":"Fragmentation Algorithmique",
+    "shortDescription":"Indivu ou collectif?",
+    "longDescription":"Nulla laborum adipisicing minim sit cupidatat irure irure eu laborum id sint minim. Voluptate duis do ut fugiat duis aliquip commodo sit Lorem ipsum fugiat. Et adipisicing Lorem dolore voluptate ut aliquip reprehenderit cupidatat magna ullamco consequat culpa. Anim et cillum cupidatat nostrud adipisicing excepteur enim ex tempor do magna.",
+    "imgUrl":"assets/ethics/images/computer-surveillance-artificial-intelligence-computer-ai-svgrepo-com.svg",
+    "url":"specificite"
+  },
+
+
   {
     "title":"Applications",
     "shortDescription":"Comment concevoir des algorithmes inclusifs?",
-    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
-    "imgUrl":"assets/ethics/images/aim-svgrepo-com.svg"
+    "longDescription":"Pariatur ad consectetur proident officia officia. Nisi ad consequat incididunt fugiat adipisicing velit voluptate fugiat nulla cillum. Minim sit eiusmod consequat quis laboris labore.",
+    "imgUrl":"assets/ethics/images/aim-svgrepo-com.svg",
+    "url":"applications"
   },
   {
     "title":"Autonomie",
     "shortDescription":"Comment concevoir des algorithmes inclusifs?",
-    "longDescription":"BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla",
-    "imgUrl":"assets/ethics/images/artificial-intelligence-svgrepo-com.svg"
+    "longDescription":"Culpa ad anim eu deserunt magna do. Qui qui elit ullamco nisi est proident eu amet reprehenderit quis culpa. Officia dolore quis aute minim.",
+    "imgUrl":"assets/ethics/images/artificial-intelligence-svgrepo-com.svg",
+    "url":"autonomie"
   }
 ]
