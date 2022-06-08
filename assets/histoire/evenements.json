@@ -21,9 +21,9 @@
 
 {
   "imageUrl":"",
-  "title":"Clarke et Kubrik",
+  "title":"Herbert Simon",
   "date":1968,
-  "description":"\"D'ici 2021, nous obtiendrons des machines dont l'intelligence égalera ou surpassera celle des humains\""
+  "description":"\"D'ici 20 ans, la machine sera capable de faire n'importe quelle tâche\""
 },
 
 
@@ -39,7 +39,7 @@
   "imageUrl":"assets/histoire/images/Shibuya_tokyo.jpg",
   "title":"Relance au Japon",
   "date":1982,
-  "description":"En raison de progrès limités obtenus par les méthodes symboliques, les fonds de recherche en IA sont drastiquement réduits"
+  "description":"Des investissements gourvenementaux massifs relancent la recherhe en IA"
 },
 
 
