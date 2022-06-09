@@ -3,35 +3,40 @@
   "imageUrl":"assets/histoire/images/Alan_Turing_Aged_16.jpg",
   "title":"Alan Turing",
   "date":1950,
-  "description":"Dans un article pour Computing Machinery and Intelligence, le célèbre mathématicien et informaticien Alan Turing se demande si les machines peuvent penser"
+  "description":"Dans un article pour Computing Machinery and Intelligence, le célèbre mathématicien et informaticien Alan Turing se demande si les machines peuvent penser."
 },
 {
   "imageUrl":"assets/histoire/images/1280px-Dartmouth_College_campus_2007-06-23_Dartmouth_Hall_02.JPG",
   "title":"Apparition du terme IA",
   "date":1956,
-  "description":"La notion d'Intelligence Artificielle apparaît durant la conférence de Darmouth"
+  "description":"La notion d'Intelligence Artificielle apparaît durant la conférence de Darmouth."
+},
+{
+  "imageUrl":"assets/histoire/images/1280px-Dartmouth_College_campus_2007-06-23_Dartmouth_Hall_02.JPG",
+  "title":"Invention du perceptron.",
+  "date":1957,
+  "description":"Frank Rosenblatt propose un modèle de neurone formel qui inspirera 50 ans plus tard la plupart des réseaux de neurones modernes."
 },
 
 {
   "imageUrl":"assets/histoire/images/Loi_de_Moore.png",
   "title":"Loi de Moore",
   "date":1965,
-  "description":"Gordon Moore postule que la complexité des semi-conducteurs double tous les ans"
+  "description":"Gordon Moore postule que la complexité des semi-conducteurs double tous les ans."
 },
 
 {
   "imageUrl":"",
   "title":"Herbert Simon",
   "date":1968,
-  "description":"\"D'ici 20 ans, la machine sera capable de faire n'importe quelle tâche\""
+  "description":"\"D'ici 20 ans, la machine sera capable de faire n'importe quelle tâche\"."
 },
-
 
 {
   "imageUrl":"assets/histoire/images/hiver.jpg",
   "title":"1er Hiver de l'IA",
   "date":1974,
-  "description":"En raison de progrès limités obtenus par les méthodes symboliques, les fonds de recherche en IA sont drastiquement réduits"
+  "description":"En raison de progrès limités obtenus par les méthodes symboliques, les fonds de recherche en IA sont drastiquement réduits."
 },
 
 
@@ -42,12 +47,11 @@
   "description":"Des investissements gourvenementaux massifs relancent la recherhe en IA"
 },
 
-
 {
   "imageUrl":"assets/histoire/images/Deep_Blue.jpg",
   "title":"Deep Blue bat Kasparov",
   "date":1997,
-  "description":"Développé par IBM, Deep Blue défie le champion du monde d'échec Garry Kasparov"
+  "description":"Développé par IBM, Deep Blue défie le champion du monde d'échec Garry Kasparov."
 }
 
 ]
