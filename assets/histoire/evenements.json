@@ -13,7 +13,7 @@
 },
 {
   "imageUrl":"assets/histoire/images/1280px-Dartmouth_College_campus_2007-06-23_Dartmouth_Hall_02.JPG",
-  "title":"Invention du perceptron.",
+  "title":"Invention du perceptron",
   "date":1957,
   "description":"Frank Rosenblatt propose un modèle de neurone formel qui inspirera 50 ans plus tard la plupart des réseaux de neurones modernes."
 },
@@ -44,7 +44,7 @@
   "imageUrl":"assets/histoire/images/Shibuya_tokyo.jpg",
   "title":"Relance au Japon",
   "date":1982,
-  "description":"Des investissements gourvenementaux massifs relancent la recherhe en IA"
+  "description":"Des investissements gouvernementaux massifs relancent la recherche en IA"
 },
 
 {
